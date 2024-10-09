@@ -43,7 +43,7 @@ public:
 };
 int main()
 {
-    Oceny<int> oceny1 = Oceny<int>(); // jawne wywołanie konstruktora domyślnego
+    Oceny<int> oceny1 = Oceny<int>();
 
     oceny1.wyklad = 3.5;
     oceny1.cwiczenia = 5.2;
